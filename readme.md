@@ -1,14 +1,14 @@
-# _Places I've Been_
+# Places I've Been
 
-#### _Webpage that uses constructors to categorize places I've been, 24 August 2020_
+### _Webpage that uses constructors to categorize places I've been, 24 August 2020_
 
 #### By _**Cameron Will <cellardoorsolar@aol.com>, Johnny Duverseau <duverseaujohnny21@gmail.com>**_
 
-## Description
+# Description
 
 _This is a simple webpage project to practice using constructors and prototypes._
 
-## Specs for Program Behaivors
+## Specs for Program Behaviors
 1. _When user clicks destination, results will populate information from constructor and display them._ 
 ### Input: Jacmel
 ### Output: photo of bassin-blue, 2016, "City of Light".
